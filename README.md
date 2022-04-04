@@ -15,18 +15,18 @@
 <hr>
 <div align="center" style="margin-top: 30px" style="display: inline_block">
   <img title="JavaScript" alt="JavaScript" height="30" width="40" src="./images/javascript-plain.svg">
-  <img title="TypeScript" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img title="React" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img title="TypeScript" alt="TypeScript" height="30" width="40" src="./images/typescript-plain.svg">
+  <img title="React" alt="React" height="30" width="40" src="./images/react-original.svg">
+  <img title="Redux" alt="Redux" height="30" width="40" src="./images/redux-original.svg">
+  <img title="HTML5" alt="HTML" height="30" width="40" src="./images/html5-original.svg">
+  <img title="CSS3" alt="CSS" height="30" width="40" src="./images/css3-original.svg">
+  <img title="NodeJS" alt="NodeJS" height="30" width="40" src="./images/nodejs-original.svg">
+  <img title="Jest" alt="Jest" height="30" width="30" src="./images/jest-plain.svg">
+  <img title="MongoDB" alt="MongoDB" height="30" width="40" src="./images/mongodb-original.svg">
+  <img title="Linux" alt="Linux" height="30" width="40" src="./images/linux-original.svg">
+  <img title="GIT" alt="GIT" height="30" width="40" src="./images/git-original.svg"> 
 
-  <img title="React" alt="React" height="30" width="40" src="./images/redux-original.svg">
   
-  <img title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img title="CSS3" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img title="NodeJS" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img title="Jest" alt="Jest" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-  <img title="MongoDB" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-  <img title="Linux" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img title="GIT" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
 </div>
 
 <!--
