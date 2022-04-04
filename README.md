@@ -8,9 +8,6 @@
   <li> 🏓 Meus hobbies são jogos, séries e musicas.</li>
   <li> 💬 Pergunte-me sobre qualquer coisa, adoro conversar e ajudar pessoas</li>
 </div>
-<a href="https://github.com/brennomiliani" title="brennomiliani profile">
-     <img src="https://github.com/brennomiliani/brennomiliani/blob/output/github-contribution-grid-snake.svg" alt="snake eating commits">
-   <a/>
 <br>
 
 <hr>
