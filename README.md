@@ -8,6 +8,9 @@
   <li> 🏓 Meus hobbies são jogos, séries e musicas.</li>
   <li> 💬 Pergunte-me sobre qualquer coisa, adoro conversar e ajudar pessoas</li>
 </div>
+<a href="https://github.com/brennomiliani" title="brennomiliani profile">
+     <img src="https://github.com/brennomiliani/brennomiliani/blob/output/github-contribution-grid-snake.svg" alt="snake eating commits">
+   <a/>
 <br>
 
 <hr>
@@ -30,7 +33,7 @@
 <h4 align="center">📊 Estatísticas 📊</h4>
 <hr>
 <br>
-<div align=center>
+<p align=center>
   <div align=center>
     <a href="https://github.com/brennomiliani" title="brennomiliani profile">
       <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=brennomiliani&theme=react&border=61dafb&hide_border=true" alt="brennomiliani" />
@@ -47,4 +50,13 @@
   <br>
   <br>
   </div>
+</p>
+
+<hr>
+<h4 align="center">📝 Contato 📝</h4>
+<hr>
+<div align=center>
+  <a href="https:/www.linkedin.com/in/brennomiliani/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:brennomiliani18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 </div>
