@@ -3,7 +3,7 @@
 <h3><strong>Sobre mim</strong></h3>
 
 <div>
-  <li> 👩🏻‍💻 apaixonado por tecnologia e investimentos</li>
+  <li> 👩🏻‍💻 apaixonado por tecnologia e novos conhecimentos</li>
   <li> 🔭 Estudando Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a>, em parceria com a <a href="https://www.xpinc.com/">XP Inc.</a></li>
   <li> 🏓 Meus hobbies são jogos, séries e musicas.</li>
   <li> 💬 Pergunte-me sobre qualquer coisa, adoro conversar e ajudar pessoas</li>
