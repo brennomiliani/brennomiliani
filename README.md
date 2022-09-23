@@ -10,50 +10,69 @@
 </div>
 <br>
 
-<hr>
-<h4 align="center"> Línguagens & Frameworks & Ferramentas & Habilidades </h4>
-<hr>
-<div align="center" style="margin-top: 30px" style="display: inline_block">
-  <img title="JavaScript" alt="JavaScript" height="30" width="40" src="./images/javascript-plain.svg">
-  <img title="TypeScript" alt="TypeScript" height="30" width="40" src="./images/typescript-plain.svg">
-  <img title="React" alt="React" height="30" width="40" src="./images/react-original.svg">
-  <img title="Redux" alt="Redux" height="30" width="40" src="./images/redux-original.svg">
-  <img title="HTML5" alt="HTML" height="30" width="40" src="./images/html5-original.svg">
-  <img title="CSS3" alt="CSS" height="30" width="40" src="./images/css3-original.svg">
-  <img title="NodeJS" alt="NodeJS" height="30" width="40" src="./images/nodejs-original.svg">
-  <img title="Jest" alt="Jest" height="30" width="30" src="./images/jest-plain.svg">
-  <img title="Linux" alt="Linux" height="30" width="40" src="./images/linux-original.svg">
-  <img title="GIT" alt="GIT" height="30" width="40" src="./images/git-original.svg">   
-</div>
-
-<hr>
-<h4 align="center">📊 Estatísticas 📊</h4>
-<hr>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/brennomiliani" title="brennomiliani profile">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=brennomiliani&theme=react&border=61dafb&hide_border=true" alt="brennomiliani" />
-    </a>
-    <a href="https://github.com/brennomiliani" title="brennomiliani profile">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=brennomiliani&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/brennomiliani" title="brennomiliani profile">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brennomiliani&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  <br>
-  <br>
-  </div>
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/brennomiliani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brennomiliani/" height="30" width="40" /></a>
 </p>
 
-<hr>
-<h4 align="center">📝 Contato 📝</h4>
-<hr>
-<div align=center>
-  <a href="https://www.linkedin.com/in/brennomiliani/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:brennomiliani18@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<h3 align="left">Linguagens e ferramentas:</h3>
+<p align="left"> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+</a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+</a>
+<a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+</a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</a> 
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+</a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+</a> 
+<a href="https://heroku.com" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
+</a> 
+<a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
+</a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+</a> 
+<a href="https://mochajs.org" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> 
+</a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+</a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+</a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+</a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</a> 
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+</a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+</a> 
+</p>
 
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brennomiliani&show_icons=true&locale=pt-br&layout=compact" alt="brennomiliani" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brennomiliani&show_icons=true&locale=pt-br" alt="brennomiliani" /></p>
